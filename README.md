@@ -1,4 +1,4 @@
-# Spped Typing Game
+# Speed Typing Game
 
 > A speed typing game that fetches random words from an API and allows to set a difficulty level.
 
@@ -18,9 +18,9 @@ A speed typing game that fetches random words from an API and allows to set a di
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/115493826-0b671b00-a297-11eb-8f0f-f381a01cfd38.png)
 
-[Demo]()
+[Demo](https://modest-morse-16e5e5.netlify.app)
 
 ## Built With
 
